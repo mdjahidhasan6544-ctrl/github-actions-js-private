@@ -11,7 +11,7 @@
   ✓ multiplies two numbers
 
 Test Suites: 1 passed, 1 total
-Tests:       3 passed, 3 total
+Tests:       4 passed, 4 total
 Snapshots:   0 total
 Time:        0.272 s
 Ran all test suites.
